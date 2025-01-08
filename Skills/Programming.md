@@ -32,15 +32,15 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value 👂
-  - Identifier 👂
-  - Variable 👂
-  - Constant 👂
+  - Value 🖐️
+  - Identifier 🖐️
+  - Variable 🖐️
+  - Constant 🖐️
   - Scalar
   - Literal
-  - Expression
+  - Expression 🖐️
   - Heap
-  - Function 👂
+  - Function 🖐️
   - Procedure
   - Method
   - Class
@@ -51,29 +51,29 @@
   - Lexical scope
   - Code block
   - Conditions
-  - Loops
-  - Assignment
+  - Loops 🖐️
+  - Assignment 🖐️
   - Regular expression
   - Interface
   - Namespaces
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
-  - Snake case
+  - Camel case 🖐️
+  - Snake case 🖐️
   - Kebab case
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types 
+  - Primitive types 🖐️
   - Reference types
   - Type systems
   - Strong typing
   - Weak typing
   - Duck typing
   - Static typing
-  - Dynamic typing
+  - Dynamic typing 🖐️
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -82,8 +82,8 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
+  - Argument 🖐️
+  - Parameter 🖐️
   - Pure function
   - Lambda expression
   - Side effects
@@ -105,12 +105,12 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array 
+  - Array 🖐️
   - Structure
   - Record
   - Enum
   - Instance
-  - Object
+  - Object 🖐️
   - Collection
   - Set
   - Hash table
@@ -142,7 +142,7 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler 🖐️
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -157,7 +157,7 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger 🖐️
   - Tracing
   - Garbage collection
   - Refactoring

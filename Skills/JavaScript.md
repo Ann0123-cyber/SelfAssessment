@@ -1,25 +1,25 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Object` 🖐️
+  - `Function` 🖐️
+  - `Boolean` 🖐️
+  - `Number` 🖐️
   - `BigInt`
-  - `String`
+  - `String` 🖐️
   - `Symbol`
   - `Infinity`
   - `NaN`
-  - `undefined`
-  - `null`
+  - `undefined` 🖐️
+  - `null` 🖐️
   - `this`
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof`
+  - `typeof` 🖐️
   - Destructuring
   - Generators
-  - Iterators
+  - Iterators 🖐️
   - Async generator
   - Async iterator
   - Chaining
@@ -43,7 +43,7 @@
   - Template literal
   - Strict mode
   - Hoisting
-  - `delete`
+  - `delete` 🖐️
   - `in`
   - `super`
   - `eval`
@@ -59,12 +59,12 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if` 🖐️
+  - `while` 🖐️
+  - `do..while` 🖐️
+  - `for` 🖐️
+  - `for..in` 👂
+  - `for..of` 👂
   - `for await`
   - `throw`
   - `break`
@@ -79,10 +79,10 @@
   - `with`
   - `new`
 - Functions
-  - Arrow function
+  - Arrow function 🖐️
   - Async function
-  - Function declaration
-  - Function expression
+  - Function declaration 🖐️
+  - Function expression 🖐️
   - Default parameters
   - Functional object
   - `Function.prototype.call`
@@ -90,7 +90,7 @@
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
+  - `Array` 🖐️
   - `Map`
   - `Set`
   - `WeakMap`
