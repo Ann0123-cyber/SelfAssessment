@@ -32,15 +32,15 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
+  - Value 👂
+  - Identifier 👂
+  - Variable 👂
+  - Constant 👂
   - Scalar
   - Literal
   - Expression
   - Heap
-  - Function
+  - Function 👂
   - Procedure
   - Method
   - Class
@@ -66,7 +66,7 @@
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
+  - Primitive types 
   - Reference types
   - Type systems
   - Strong typing
@@ -105,7 +105,7 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array 
   - Structure
   - Record
   - Enum
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
+  - Linux 👂
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS 👂
+  - Windows 🖐️
   - Real-time OS
   - Embedded OS
 - Standards
